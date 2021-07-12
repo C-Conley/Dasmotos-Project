@@ -1,0 +1,14 @@
+* {
+    font-family: Helvetica;
+}
+
+h1, h2, .caption, .price {
+    
+}
+
+#banner {
+    background-image: url(/pattern.webp);
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+}
