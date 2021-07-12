@@ -2,13 +2,34 @@
     font-family: Helvetica;
 }
 
-h1, h2, .caption, .price {
-    
+h1, h2, h3, .price {
+    font-weight: bold;
 }
 
-#banner {
+.banner {
     background-image: url(/pattern.webp);
     font-size: 100px;
     color: khaki;
     text-align: center;
+}
+
+.headings {
+    color: white;
+    font-size: 32px;
+}
+
+.spring-green {
+    background-color: mediumspringgreen;
+}
+
+.light-coral {
+    background-color: lightcoral;
+}
+
+.sky-blue {
+    background-color: skyblue;
+}
+
+.price {
+    color: blue;
 }
